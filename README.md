@@ -10,4 +10,4 @@ Ishika Agarwal
 Gunjan Gupta, Wenxuan Yang, Jiyoon Lim
 
 ## License
-This project is licesned under the GNU General Public Lecense - see the [LICENSE]() file for detail
+This project is licesned under the GNU General Public Lecense - see the [LICENSE](https://github.com/ishikaag/cse442-semester-project-not-a-bug-a-feature/blob/master/LICENSE) file for detail
