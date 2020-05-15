@@ -1,3 +1,5 @@
 # Welcome to Our Project
-To install and run our project here are the steps required:
-1. _Fill this in as you work on your project_
+ An Android application "Tutor4Tutor" to find tutors online.
+ 
+
+# Author: Ishika Agarwal, Gunjan Gupta, Wenxuan Yang, Jiyoon Lim
