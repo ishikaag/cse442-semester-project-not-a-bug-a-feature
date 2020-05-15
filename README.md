@@ -10,4 +10,4 @@ Ishika Agarwal
 Gunjan Gupta, Wenxuan Yang, Jiyoon Lim
 
 ## License
-This project is licesned under the GNU General Public Lecense - see the LICENSE file for detail
+This project is licesned under the GNU General Public Lecense - see the [LICENSE]() file for detail
